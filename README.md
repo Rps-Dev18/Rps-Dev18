@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/pradeep-surya-b0a2a61a2/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://classory.app/"><img src="https://img.shields.io/badge/CLASSORY-EC4899?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Classory"/></a>
 <a href="https://github.com/Rps-Dev18"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/html_css_js_codings_"><img src="https://img.shields.io/badge/INSTAGRAM-17K%2B%20FOLLOWERS-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram — 17K+ followers"/></a>
 
 <br/>
 
@@ -38,6 +39,8 @@ My work spans **frontend experiences**, **backend systems**, **API architecture*
 
 Right now I'm building real-world products, improving engineering workflows, and exploring how AI can accelerate development **without replacing engineering judgment**.
 
+Beyond building, I'm a creator: I share coding tips and digital journeys on Instagram at [**@html_css_js_codings_**](https://www.instagram.com/html_css_js_codings_) — **17K+ followers** and growing.
+
 </td>
 <td width="38%" valign="top" align="center">
 
@@ -46,6 +49,8 @@ Right now I'm building real-world products, improving engineering workflows, and
 <img src="https://img.shields.io/badge/PROJECTS-10%2B-EC4899?style=for-the-badge" alt="Projects"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-10B981?style=for-the-badge" alt="Status"/>
+<br/><br/>
+<a href="https://www.instagram.com/html_css_js_codings_"><img src="https://img.shields.io/badge/INSTAGRAM-17K%2B-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram 17K+"/></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20FULL%20STACK-F59E0B?style=for-the-badge" alt="Focus"/>
 
@@ -195,6 +200,7 @@ Open to connecting with developers, builders, and people who enjoy solving meani
 <a href="https://suryaa-dev.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/pradeep-surya-b0a2a61a2/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/Rps-Dev18"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/html_css_js_codings_"><img src="https://img.shields.io/badge/INSTAGRAM-17K%2B%20FOLLOWERS-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram — 17K+ followers"/></a>
 
 <br/><br/>
 
