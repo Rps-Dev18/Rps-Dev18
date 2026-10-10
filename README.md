@@ -8,7 +8,7 @@ Currently working at **INCRIX TECHLUTIONS LLP**, building and improving full-sta
 
 **My approach:** Understand the problem → Design the architecture → Build → Test → Refine → Ship.
 
-[Portfolio](https://pradeepsurya-dev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/pradeep-surya-b0a2a61a2/) · [Classory](https://classory.app/)
+[Portfolio](https://suryaa-dev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/pradeep-surya-b0a2a61a2/) · [Classory](https://classory.app/)
 
 ---
 
